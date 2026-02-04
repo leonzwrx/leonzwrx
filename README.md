@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**leonzwrx/leonzwrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tattooed suburban dad of twins with too many hobbies.  
+Somewhere between school drop-offs, home gym, and cars & coffees, I run a homelab and break/fix Linux systems for fun.
 
-Here are some ideas to get you started:
+I’m a systems engineer focused on **practical linux infrastructure**, **reproducible setups**, and **clear documentation** — most of what’s here reflects things I actively use and maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I store here
+
+- Personal Linux system administration guides & notes(RHEL, Fedora, Debian, etc)
+- Containerization & VM configs: Podman (rootless), Proxmox, ZFS, backups
+- Helpful shell scripts, setup scripts, window manager docs
+- dotfiles, daily-driven configs, homelab documentation & wiki etc
+- website & photography projects - statics sites and experiments 
+
+Some repos are polished, some are works in progress — all are real.
+
+---
+
