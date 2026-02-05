@@ -18,3 +18,7 @@ Some repos are polished, some are works in progress — all are real.
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Lotus_Cars_logo.svg" width="35">
 </p>
+
+• • • • • • •
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)![https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)![bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
