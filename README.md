@@ -1,5 +1,7 @@
 # 👋 Welcome
 
+<img src="./assets/lotus-logo.png" width="120">
+
 Tattooed suburban dad of twins with too many hobbies.  
 Somewhere between school drop-offs, home gym, and cars & coffees, I run a homelab and break/fix Linux systems for fun.
 
@@ -16,6 +18,3 @@ I’m a systems engineer focused on **practical linux infrastructure**, **reprod
 - website & photography projects - statics sites and experiments 
 
 Some repos are polished, some are works in progress — all are real.
-
----
-
