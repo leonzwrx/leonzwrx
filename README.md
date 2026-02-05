@@ -16,5 +16,5 @@ I’m a systems engineer focused on **practical Linux infrastructure**, **reprod
 Some repos are polished, some are works in progress — all are real.
 
 <p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Lotus_Cars_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Lotus_Cars_logo.svg" width="35">
 </p>
